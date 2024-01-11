@@ -33509,8 +33509,8 @@ vkcdnservice.appspot.com^
 ||domainadvertising.com^
 ||domainsponsor.com^
 ||dotomi.com^
-||doubleclick.com^
-||doubleclick.net^
+! ||doubleclick.com^
+! ||doubleclick.net^
 ||doubleverify.com^
 ||dreamaquarium.com^
 ||dropkickmedia.com^
